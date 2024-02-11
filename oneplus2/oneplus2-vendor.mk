@@ -263,6 +263,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libmmqjpegdma.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpegdma.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/liboemcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcamera.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libois_rohm_bu63165gwl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libois_rohm_bu63165gwl.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/libprotobuf-cpp-full-v28.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-full-v28.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/libprotobuf-cpp-lite-v28.so:$(TARGET_COPY_OUT_VENDOR)/lib/libprotobuf-cpp-lite-v28.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libqdi.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqdi.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libqdp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqdp.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib/libqmi_client_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqmi_client_helper.so \
@@ -359,6 +361,8 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libmmosal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmosal.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libnetmgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libnetmgr.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libperipheral_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libperipheral_client.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/libprotobuf-cpp-full-v28.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-full-v28.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/libprotobuf-cpp-lite-v28.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libprotobuf-cpp-lite-v28.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqcmaputils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcmaputils.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqdi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqdi.so \
     vendor/oneplus/oneplus2/proprietary/vendor/lib64/libqdp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqdp.so \
