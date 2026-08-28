@@ -78,13 +78,13 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus2/proprietary/etc/sensors/sensor_def_qcomdev.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/sensors/sensor_def_qcomdev.conf \
     vendor/oneplus/oneplus2/proprietary/vendor/etc/silence_short.wav:$(TARGET_COPY_OUT_VENDOR)/etc/silence_short.wav \
     vendor/oneplus/oneplus2/proprietary/etc/thermal-engine.conf:$(TARGET_COPY_OUT_SYSTEM)/etc/thermal-engine.conf \
-    vendor/oneplus/oneplus2/proprietary/lib/hw/fingerprint.msm8994.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/fingerprint.msm8994.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/fingerprint.msm8994.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/fingerprint.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/lib/libFNVfbEngineLib.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFNVfbEngineLib.so \
     vendor/oneplus/oneplus2/proprietary/lib/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus2/proprietary/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmm-qcamera.so \
     vendor/oneplus/oneplus2/proprietary/lib/libmorpho_video_refiner.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmorpho_video_refiner.so \
     vendor/oneplus/oneplus2/proprietary/lib/libopcamerahw_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libopcamerahw_interface.so \
-    vendor/oneplus/oneplus2/proprietary/lib64/hw/fingerprint.msm8994.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/fingerprint.msm8994.so \
+    vendor/oneplus/oneplus2/proprietary/vendor/lib64/hw/fingerprint.msm8994.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/fingerprint.msm8994.so \
     vendor/oneplus/oneplus2/proprietary/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus2/proprietary/lib64/libopcamera.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libopcamera.so \
     vendor/oneplus/oneplus2/proprietary/lib64/libopcameralib.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libopcameralib.so \
