@@ -8,6 +8,7 @@ soong_namespace {
 cc_prebuilt_library_shared {
 	name: "libloc_api_v02",
 	owner: "oneplus",
+	vendor: true,
 	strip: {
 		none: true,
 	},
