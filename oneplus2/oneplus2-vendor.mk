@@ -86,7 +86,7 @@ vendor/oneplus/oneplus2/proprietary/vendor/lib/hw/fingerprint.msm8994.so:$(TARGE
     vendor/oneplus/oneplus2/proprietary/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
     vendor/oneplus/oneplus2/proprietary/lib64/libopcamera.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libopcamera.so \
     vendor/oneplus/oneplus2/proprietary/lib64/libopcameralib.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libopcameralib.so \
-    vendor/oneplus/oneplus2/proprietary/lib64/libparam.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libparam.so \
+    vendor/oneplus/oneplus2/proprietary/lib64/libparam.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libparam.so \
     vendor/oneplus/oneplus2/proprietary/vendor/bin/perfd:$(TARGET_COPY_OUT_VENDOR)/bin/perfd \
     vendor/oneplus/oneplus2/proprietary/vendor/bin/qti:$(TARGET_COPY_OUT_VENDOR)/bin/qti \
     vendor/oneplus/oneplus2/proprietary/vendor/bin/rmt_storage:$(TARGET_COPY_OUT_VENDOR)/bin/rmt_storage \
